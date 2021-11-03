@@ -107,7 +107,7 @@
 1f0212abf56183baac8dea922c20ed315cc1cfcebf476a9b5542195bb35778a9                official-nitro.fun
 1f11234a7949711e01339be25288b2ac16392afd064da4afecc4a8d48ea0e493                discordd.gift
 1f21e0f09acfc54c81fbe931cc89b90cf960a02948befb99ee3f5b6de13b482a                discord-gift-nitro.site
-1f2d1fa96575926517e82363d5645f1959750e7c2dbd17a2f8b82ac159fb45c6
+1f2d1fa96575926517e82363d5645f1959750e7c2dbd17a2f8b82ac159fb45c6                discord.voto
 1f2e148b411e9f4eb4125240ddd9a83c226e12336900f8c6f5fa82d475f672cb                discord-steams.com
 1f394ee9d7a7a162cf38ea1447940afd720eb248fad4ada2a253b46da1fa2339                discordlgift.ru.com
 1f504833995bef5ca31e6df08f961d646d892af6490f38b1f0ceb1e7ac8ad55b                discord-hypesquade.com
