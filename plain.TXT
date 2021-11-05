@@ -89,7 +89,7 @@
 19cde9a797c6ba70df77a6bbbd1ef038a8fa0b72a73b8a34ff2290cf87f587ae
 1a2385b0c07f29a4b4db786e94f7e2d30f31ce84803a0a0f91981d9ad16b0013
 1a2c340821588ab035940a4e35606e3a9f196c9e4ab0ed74b620a6ac409b1ed5                discorcl.site
-1a464b7a9f3e35e3d3f8d66ddcd0f4e38e43efd71e8208a6226c2414c346eec3                free-nitross.ru
+1a464b7a9f3e35e3d3f8d66ddcd0f4e38e43efd71e8208a6226c2414c346eec3
 1ae2aece60f451c5021bed458d3f42ff42d5fda25eaf6916be105e0d56490e86
 1afda29060c7b0e97b8cf41551850676a0010a010e4fa6559e7f4dbb2acfb3cb                dlscord.app
 1b219d9404ab160634f131d259475978152a8020e3eb85cc8ae47941c8fc6255                discord-applications.com
@@ -120,7 +120,7 @@
 20ced6fa0b3cb1f67ef9df4e9c934db638fcd2d4f3a2745ca2a7d356ec82a8d7                steam-nltros.ru
 217e10671864b9f10ff195a220739bb742fad0860f2f112f0ad9a3c91c5032a6                steam-dlscord.com
 21db61f797cb143e63d269243a58e623944ae784ea9090238e56d9c6982be783                discord-gifte.com
-220f91ed126db6019e42a4b442a8d8a0b5ecc7d14ca8d6be1032104c53092312                discord.link
+220f91ed126db6019e42a4b442a8d8a0b5ecc7d14ca8d6be1032104c53092312
 228c1c974aec900edf6554efa50d22a7fb86a79640d80206a0744cea37701198                nitroappstore.com
 229032f3c3fe64872048c027592c5baebc999a8886d769805769bff35028eedd
 22a9c43fdef7d3cf3a646cc5622ff763a458b439778070093bf5aa88d30e9363                discord-gift.online
@@ -192,7 +192,7 @@
 34f86b37c94fe13d56be9830728166b9bf2791a9a8757f1341707b5df16a934c                discorcl.app
 34fcf9015924dc8997ecf9e6be193a7c52c63a909d1b0da3631fac1fbf5ba275                dlscord-nitro.info
 357ad5ce3461daa139badfc003d9b1ef71a3beff3b3aa14c9dd18b8b6159ea24                dlscordd.ru
-3583697d27a76cc571ffc451959baa04c23ea9a965193e192926c87cf1ec50bb                discord-moderations.com
+3583697d27a76cc571ffc451959baa04c23ea9a965193e192926c87cf1ec50bb
 364372118c25e4221ab80974e20710675184ad6eb5c82332c48ae922c9cc9d45                discord-airdrop.com
 36ab78a43f28630468bc8769ffad1d60d1922ac5856b3098a9b8c82f97248f3f                ds-nitro.com
 36cc86e1c3f7f7ea0398fd076b5848cc402d5a6ddab31bb752e7d058da9a8799                discord-app.ru.com
@@ -383,7 +383,6 @@
 7d0e093828407314e91410612573a67d7b545b5c02351431172e6e67b3a30c29                disord.fun
 7d1d108668ef1cc190692ec8adb9d8f935a6393a01015c5b4c72f9cc75081337                discrod-up.ru
 7d9cfde8a3d66e79af7a6e1f6eef3e8b8a5432c9470e8b7366688042dd5bd346                discrod-app.com
-7de12c6d385086d1945d2ce0e9e375d5f6cdc0977aa2e6f797ce3195f3c2f8a5
 7dfdc334f526676831d7e46618ca3b5d3b312930c9973e94b18b4d4a926355db                dlscordnitro.com
 7e54e9bd75ddb6d7983ed424a444d69fa39ebf768070b173ae9ae8de843fda4e                discord-app.live
 7f4831f7a8a568d22734deaecd43bb7e54ef33593f336dd2860f8271fa295951                steam-nitros.ru
@@ -408,7 +407,7 @@
 852e1aa6b12efb59087abc09d8ae50770a5017781a5f1a8bc7f9b636a91e707a                discocrd.com
 85be5da97f5946dc896d0c263b9d2e1e0c5f5d8db95c6b65820e124c966c1bc0
 8615014e32fd70bde87fb3d88595b3fd22753412768f2d3fa9ae6f8014fff891
-868b583ff1c8b34e4bdd528eb8617a003efeaff1b8ff1f2136b6a0aaf47779c9                free-nitros.ru
+868b583ff1c8b34e4bdd528eb8617a003efeaff1b8ff1f2136b6a0aaf47779c9
 86bea79bf6c2939dac39e1e7786fb07659784dd57de50b77983b2b2009aad8d3                discoclapp.xyz
 8848a43f1a9a45a4142ccfa461885eadfb65964d4722f1e06d74ec784e05b5bd                discord-nitroapp.xyz
 890ae835b101466d970f39c8de8c763ebb677ee684ca31ce0e10d3e8480ecccc                discorrl.com
@@ -442,7 +441,7 @@
 9128c2787106aba68b5c38eed4acea7dd4e536d2ee94670a0a32de4843ede1bf                dlscordgived.xyz
 9150316626da3a43d1d49b9d2d63a315c95336bbc155571d2a6fa59ed047bc09                discord-hypesquaders.com
 931d1054ecbad7232924a3c2e7817e7ea22cd525df1cf2991ab8e2a16004e271
-9342e0b4e7dff7e355d55b3bc3346e9f9206638554ed7058c835ef72a31fff88                dlscocl.xyz
+9342e0b4e7dff7e355d55b3bc3346e9f9206638554ed7058c835ef72a31fff88
 939225142da0684eac0fc72383e594648860f1b433de006b54c7b5a077ff9f91                discords-steam.com
 93c94800cee4e880004f2a21f27fcdefde4c39adc9a7cbaada76b88b77422059                dlscordnitros.gifts
 9427f3be1e03d61396c28d40fb53060c9c9ce6c9353e825dddae8b3e407a3402
@@ -488,7 +487,7 @@
 9ee050c2456d711f46beb7ff99705d49913131a5f867763f1e44aa3689a42867                discord-glft.ru.com
 9f198172b9f51df4adc53af3a6935bab7fd3c4b0e0bca96885ce4007c1139a3b
 a03f46af85b182628f4caf04623227bf69ea39fd20adab1bc6f17351520b00c9                discord-hypes.com
-a049440d07ede88f72cb89d847700ec6e5d40bcafb13ae8dd994eb8cdf3ec9ba                free-nitlrols.ru
+a049440d07ede88f72cb89d847700ec6e5d40bcafb13ae8dd994eb8cdf3ec9ba
 a09144f614837e0797653f38609775bb28c5f6c63070886ce57df0a7210ffe8a
 a141efc930794d4a2e6d6920b71dd450e8f48f898e3041f4a2571a5ac896017b
 a1cc8456cc62c3d0862e3e64b35163ce33a2d9c27f797dd0356ea01a71b0fe45
@@ -549,7 +548,7 @@ b1c8ce513bfe30aae10ea66a2abd9301d9d92855cd40a9773e1b188f0802ccec                
 b29bb29d4a25069766eefd7b7fb77e34c8ac2bdc86c886e07df3dbd2ef90afff                dlscordglft.xyz
 b306e72dd27b421fe015568a7431ae64d398609fa0f5a60dd2ae61e515aec768
 b3bb153d74636d5cb12a00516ad0fa02f950c9c0d6109ef51abf1d06440c1e25                discord-giftef.xyz
-b3d08f431261970dad813feca5a5741531cabc320ab35b281d20f1093e8582c3                dlscord-nitro.ru
+b3d08f431261970dad813feca5a5741531cabc320ab35b281d20f1093e8582c3
 b3e0c52f07f9a4b51b37ae17b4b69f67288920636844982afa7d23afb2fc8333
 b42fddfc0ec8b73ea84c80d1d3c7377bf89dd21e1758b84317442146127f6566                discoclapp.pw
 b46c169a61db1c2ff2a395aa7c81e61a86a4dc13e3c86a8c0605d6177c975f65                discorcl.org
@@ -567,7 +566,7 @@ b76d9fb0a921c95fc6392eb5ddaa7aee6299f7d7a1df0eb5dfce4f0d3f483c57                
 b7a3893a04f85d4a3fa9b7a76edc68da1ceac14e3f03c67c00b1cb2d618cf3e3                dliscordnltro.com
 b7ce7a8d46ca041b6a6c9800eb40ccd4c0efde9a37d7c24f33980d6535b02f55                discord-application.com
 b854eaf9ca5e8f4aff0d1bdfd6101dc95acea7d40735d517ce6b0dc6979feb33                steamcommunity-nitrogeneral.ru
-b87a8aae8ceadb72929dc1c12c8473804589f787fc36501a105c3b293412845f                discordl.gift
+b87a8aae8ceadb72929dc1c12c8473804589f787fc36501a105c3b293412845f
 b8ddb4e35084d0529cbec52234cadb7a1feea1701c231e3a5960038b589ad989                discord-devs.com
 b8e9981d00fd0e40a970fd6e45ce0b2ba01b4b8c6ebfd8a28425f484bd78873c                discords-hypesquads.com
 b908a43c65106e97b56e56c0b83fa140ec2226525e72eeb8c6ad8d46353c811d                discorcl-nitro.site
@@ -625,7 +624,7 @@ c8c171ddcb3a8c1a83ecb497df0aa3aba303fab85d4f121275a7ea8f2b38133d                
 c8e97f7496ff499ff8e93f52486633e97c14f52f6790170e1bc70fc80ee85d80                giftdiscord.info
 c97c7bcd348c91e6c6ea61fdfd1d49581381467d9b0e225aef732ab5ee96313e                discord-nitro.net
 c9860d43c89bab6495027d32008d6c2867ee780c423bcacf9476aa1d755bbe2c                discord-app.click
-c9dfc89fb36613a43ae98921bf3dcc81757c006141aede923d1ed740df14e427                dlscord.co.uk
+c9dfc89fb36613a43ae98921bf3dcc81757c006141aede923d1ed740df14e427
 c9e30dda571c4e06c0dc811297088fbbd158b182e865d0953137ecc752ae79eb                discorb.ru.com
 ca24d4c11a2c8d732c51ddf6e1c40f1a3ac792d72fd1a6787eb10f4c439b3043
 ca5ccbbec59444cc74896e2dcf36ec7fa62ac61e529b8380851f30387544612b                official-nitro.com
@@ -699,7 +698,7 @@ da9f85d711d0b54c279d95cfb97f3a9f1b565d08e10e0b0b967ae44cd4e1ac65                
 dad9f5289d85fb52ff0511a36e7dfcec1ec51e8b0827f31b13f3a2305e5d0eee                discocrdapp.com
 db019d27fc723f87dcd0b09e47407227c131250d6c63825b50eca5fa06d9d4f3                dlscordniltro.com
 db07b7ba97dd08f7579ffe7188ddbeb7dd191faca02c66db623ddd1fc14aff2b                discord-hallowen.ru.com
-db3d3b914d588872fa85a89b7a6685faffdba21eea43b062a6893e1069616f19                dlscord-apps.com
+db3d3b914d588872fa85a89b7a6685faffdba21eea43b062a6893e1069616f19
 db8511df8245a25bb80a6f63e72619cd903b080cf30f667162d569fe16e1e3ec                discord-giftes.com
 dbab05ea5e68a788b7030faea619a8cba890d218bde4e4cb6b5ebce66bce0477                discorcl-app.com
 dbacbd05c99ef862eb088520b311ab00ebf2619022667a078c93112d20ef8f12                dicsordnitro.store
@@ -734,7 +733,7 @@ e544bffde763e9d1b7519963e74caa4f83bdb6d07439c71d0418f61cde2729a3                
 e5917b98fa96b05cb5294e3e082e2649aece36adb1d3a389e8e0fc2d39c0e15c                dlscocrdapp.com
 e5a66b67e657070178cd5a56b1617cce8bcaa1922059f1403088e93d0f143390
 e5ad2024df04552ce03e0f87ef9e7f624d5a9b82e6df71241dbc926e9f295588                discord-gift.shop
-e5dbc3dee12ff07ad10ccb818c17903f0017bbb0e929dfbfdf5ff2f947224cd5                discord-get.shop
+e5dbc3dee12ff07ad10ccb818c17903f0017bbb0e929dfbfdf5ff2f947224cd5
 e600a949a3ebe0152b9def4456e7bcfe1363f64c739d0c5473f8ff5fa95057a5                nitro-app.fun
 e65ce12d2ad232a3234b02e739c24aece8c7ee97e6b60b2642514c6c737b2c2c                discords-premium.site
 e69b426cc315d159525b149777c5a3e9fb1ff2fced62ec6b02ddcbc964cfa923                dlscord.info
@@ -786,7 +785,7 @@ f8b1d4642cbecb1fd33e677075c5b86d6dcf70cd95b3962955a59b149543ec6b                
 f9042b350894bb942fcaedd53d5432822cc5e70992e6f7332163f4e9e251584e                discords-nitroapp.xyz
 f90ea28c916779f52c8cf2981cff3b5e73066ba72986dd7f698bfcfca999f96c                discordgift.site
 f9461c3ca3fe439ee8bbbe53a53934d2c87186a462e7c9be998b97c702534ae5                discord-apps.site
-f9b05378a8b746cff667cde1095c35c4e5aef55fde2b3a208778cfb3f54c3482                dlscord.link
+f9b05378a8b746cff667cde1095c35c4e5aef55fde2b3a208778cfb3f54c3482
 fa215ae3d285aee6626193c66c7b75cd6300149e634c8fcede7a58a47801fd1f                dlscord.gg
 fa5dcdf078e17626848f4961fa9dabf01f22501acac6710892f2316b0afc2c67                discoord.space
 fa843a19f4e10b615fe55478527475f629d479cf5d96138c87425f0c4c4812fd
